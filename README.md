@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
- <img src="https://img.shields.io/badge/v0.1.0-snacksMV-yellowgreen?style=flat-square" alt="snacksMV"> <img src="https://img.shields.io/badge/v17.0.2-React-blue?style=flat-square" alt="snacksMV"> <img src="https://img.shields.io/badge/4.12-Material-UI-blueviolet?style=flat-square" alt="snacksMV"> <img src="https://img.shields.io/badge/4.17-Express-blueviolet?style=flat-square" alt="snacksMV">  <img src="https://img.shields.io/badge/DB-MongoDB-red?style=flat-square" alt="snacksMV">
+ <img src="https://img.shields.io/badge/v0.1.0-snacksMV-yellowgreen?style=flat-square" alt="snacksMV"> <img src="https://img.shields.io/badge/v17.0.2-React-blue?style=flat-square" alt="snacksMV"> <img src="https://img.shields.io/badge/v4.12-MaterialUI-blueviolet?style=flat-square" alt="snacksMV"> <img src="https://img.shields.io/badge/v4.17-Express-blueviolet?style=flat-square" alt="snacksMV">  <img src="https://img.shields.io/badge/DB-MongoDB-red?style=flat-square" alt="snacksMV">
 </p>
 
 <p align="center">
